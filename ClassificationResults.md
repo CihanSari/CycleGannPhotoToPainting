@@ -29,7 +29,7 @@
  --- | --- | --- | --- | --- 
 Actual female|281|218|499|56.31%
 Actual male|77|929|1,006|92.35%
-Total|358|1,147|1,505|`80.40%`
+Total|358|1,147|1,505|**80.40%**
 ## Style transferred faces
 ![Style](./FaceCropResults/0001755_SK-A-284_10.jpg)
 ![Style](./FaceCropResults/0001756_SK-A-285_10.jpg)
@@ -45,7 +45,7 @@ Total|358|1,147|1,505|`80.40%`
  --- | --- | --- | --- | --- 
 Actual female|280|219|499|56.11%
 Actual male|74|932|1,006|92.64%
-Total|354|1,151|1,505|`80.53%`
+Total|354|1,151|1,505|**80.53%**
 
 ## Gann transformed paintings
 ![Fake](./FaceCropResults/0001755_SK-A-284_fake_B.jpg)
@@ -62,7 +62,7 @@ Total|354|1,151|1,505|`80.53%`
  --- | --- | --- | --- | --- 
 Actual female|309|190|499|61.92%
 Actual male|148|858|1,006|85.29%
-Total|457|1,048|1,505|`77.54%`
+Total|457|1,048|1,505|**77.54%**
 
 ## Gann transformed faces
 ![Fake](./FaceCropResults/0001755_SK-A-284_fake_B-face.jpg)
@@ -79,4 +79,4 @@ Total|457|1,048|1,505|`77.54%`
  --- | --- | --- | --- | --- 
 Actual female|366|133|499|73.35%
 Actual male|228|779|1,006|77.43%
-Total|594|912|1,505|`76.08%`
+Total|594|912|1,505|**76.08%**
