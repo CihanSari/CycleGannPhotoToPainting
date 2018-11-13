@@ -40,11 +40,13 @@ Total|358|1,147|1,505|`80.40%`
 ![Style](./FaceCropResults/0004270_SK-A-611_10.jpg)
 ![Style](./FaceCropResults/0004480_SK-A-2072_10.jpg)
 ![Style](./FaceCropResults/0004720_SK-A-179_10.jpg)
+
 | | Classified female | Classified male | Total count| Performance |
  --- | --- | --- | --- | --- 
 Actual female|280|219|499|56.11%
 Actual male|74|932|1,006|92.64%
 Total|354|1,151|1,505|`80.53%`
+
 ## Gann transformed paintings
 ![Fake](./FaceCropResults/0001755_SK-A-284_fake_B.jpg)
 ![Fake](./FaceCropResults/0001756_SK-A-285_fake_B.jpg)
