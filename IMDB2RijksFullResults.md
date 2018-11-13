@@ -7,9 +7,9 @@
 
 [CycleGANN Nightwatch results](./NightwatchResults.md)
 
-[CycleGANN IMDB to Rijksmuseum full painting](./IMDB2RijksFullResults.md)
+[CycleGANN IMDB to Rijksmuseum full painting](./IMDB2RijksFullResults.md)  (this file)
 
-[CycleGANN IMDB to Rijksmuseum face only](./README.md) (this file)
+[CycleGANN IMDB to Rijksmuseum face only](./README.md)
 
 [Perceived sex classification performance](./ClassificationResults.md)
 # Painting to Photo using CycleGann
@@ -25,7 +25,7 @@ Cite:
 }
 ```
 # IMDB to Rijks training
-Author's implementation on the Monet2Photo model is trained with 1072 Monet painting samples and 6,287 nature photographs over 200 epochs (takes approximately 15 days with a single GPU). We have used 1234 Rijksmuseum paintings and 10,223 IMDb pictures with the same architecture. We have trained 120 epochs over 8 days on Intel i5-6600 @3.30GHz equipped with NVIDIA GeForge GTX 1070 (Aero 8G OC V330 – 011R). We have not trained all 200 epochs due to time restraints.
+Author's implementation on the Monet2Photo model is trained with 1072 Monet painting samples and 6,287 nature photographs over 200 epochs (takes approximately 15 days with a single GPU). We have used 1234 Rijksmuseum paintings and 10,223 IMDb pictures with the same architecture. We have trained 120 epochs over 10 days on Intel i5-6600 @3.30GHz equipped with NVIDIA GeForge GTX 1070 (Aero 8G OC V330 – 011R). We have not trained all 200 epochs due to time constraints.
 
 ## IMDB to Rijks trained
 Paintings from Rijksmuseum paintings &rightarrow; Painting to photo results
